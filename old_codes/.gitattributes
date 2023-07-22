@@ -1,0 +1,6 @@
+*.py filter=lfs diff=lfs merge=lfs -text
+colab_code.py filter=lfs diff=lfs merge=lfs -text
+gaze.py filter=lfs diff=lfs merge=lfs -text
+Inps.py filter=lfs diff=lfs merge=lfs -text
+trial.py filter=lfs diff=lfs merge=lfs -text
+video_data.py filter=lfs diff=lfs merge=lfs -text
